@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "89a6e2cd-38a8-478a-a622-49bea31ee6dc": {
+      "ProjectGuid": "89a6e2cd-38a8-478a-a622-49bea31ee6dc",
+      "DisplayName": "GeekShopping.ProductAPI",
+      "ColorIndex": 0
+    },
+    "d2d2e0af-51f0-4377-80a4-3e490c2d2f38": {
+      "ProjectGuid": "d2d2e0af-51f0-4377-80a4-3e490c2d2f38",
+      "DisplayName": "GeekShopping.WEB",
+      "ColorIndex": 1
+    },
+    "6e6077c2-c91a-4f4b-a9da-0d2461f051da": {
+      "ProjectGuid": "6e6077c2-c91a-4f4b-a9da-0d2461f051da",
+      "DisplayName": "GeekShopping-WEB",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "919fd655-f067-4ba2-b932-d926e85dd6b4": {
+      "ProjectGuid": "919fd655-f067-4ba2-b932-d926e85dd6b4",
+      "DisplayName": "Documentos de Script",
+      "ColorIndex": 3
+    },
+    "7fd60615-c648-4b4d-9696-9b94d9910e2f": {
+      "ProjectGuid": "7fd60615-c648-4b4d-9696-9b94d9910e2f",
+      "DisplayName": "GeekShopping.IdentityServer",
+      "ColorIndex": 4
+    },
+    "cdfe5859-4dda-4183-837b-e051dad51ed5": {
+      "ProjectGuid": "cdfe5859-4dda-4183-837b-e051dad51ed5",
+      "DisplayName": "GeekShopping.IdentityServer",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
